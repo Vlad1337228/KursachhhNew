@@ -1,0 +1,7 @@
+F:\ВУЗ\Курсач\KursachVladdd\KursachVladdd\bin\Debug\KursachVladdd.exe.config
+F:\ВУЗ\Курсач\KursachVladdd\KursachVladdd\bin\Debug\KursachVladdd.exe
+F:\ВУЗ\Курсач\KursachVladdd\KursachVladdd\bin\Debug\KursachVladdd.pdb
+F:\ВУЗ\Курсач\KursachVladdd\KursachVladdd\obj\Debug\KursachVladdd.csprojAssemblyReference.cache
+F:\ВУЗ\Курсач\KursachVladdd\KursachVladdd\obj\Debug\KursachVladdd.csproj.CoreCompileInputs.cache
+F:\ВУЗ\Курсач\KursachVladdd\KursachVladdd\obj\Debug\KursachVladdd.exe
+F:\ВУЗ\Курсач\KursachVladdd\KursachVladdd\obj\Debug\KursachVladdd.pdb
